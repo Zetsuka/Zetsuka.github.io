@@ -1,4 +1,24 @@
-h1 {color: red; font-family: sans-serif;text-align: center} 
-h2 {text-align: center;}
-p {color:green; text-align: center;}
-.box {color:blue;}
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+body { margin: 0; font-family: 'Oswald', sans-serif;background-color: #028EE6;background-image: }
+
+header { height: auto; background-color: #2D2E2E ; text-align: center;padding-bottom: 10PX}
+h1 {margin: auto; color: #fff; padding: 25px;  }
+h3{padding-top: 30px}
+section {display: block;}
+	section > .box { text-align: center; }
+		section > .box > h3 { font-family: sans-serif; }
+		section > .box > a {  }
+			section > .box > a > img { height: 350px;justify-content: center; 	}
+		section > .box > p { margin: auto; width: 45%; text-align: center; padding-bottom: 25px; padding-top: 25px; color: #FAFAFA}
+.para {text-align: center; font-family: 'Fira Sans', sans-serif;padding-top: 50px }		
+footer { height: 130px; background-color: black;text-align: center;padding: 30px}  
+.ff {background-color: #580F80}
+.Kindgom {background-color: #C90E30}
+.Secret {background-color:#3E9C75 }
+.Nier {background-color: #C7BF50}
+.text {text-align: center;padding: 150px}
+li {padding: 15px ; display: inline; border-style: solid; border-color: white ; padding-bottom: 20px;background-color:grey;}
+div {text-align: center;}
