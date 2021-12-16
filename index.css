@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 
-body { margin: 0; font-family: 'Oswald', sans-serif;background-color: #028EE6;background-image: }
+body { margin: 0; font-family: 'Oswald', sans-serif;background-color: #028EE6;}
 
 header { height: auto; background-color: #2D2E2E ; text-align: center;padding-bottom: 10PX}
 h1 {margin: auto; color: #fff; padding: 25px;  }
